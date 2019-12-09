@@ -13,5 +13,5 @@ The different models we tried are:
 4. Random Forest Regressor
 5. Gradient Boosting Regressor
 
-Final Model: Average of Universal DTR and Building+Meter Specific DTR.
+Final Model: Average of Universal DTR and Building+Meter Specific DTR. <br>
 Final Score: 1.29
